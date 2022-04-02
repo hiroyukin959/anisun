@@ -1,4 +1,3 @@
-
 # アニメに関する話題をGitHubで！
 
 仕事中の骨休みにいいかも。開発環境から確認できるのがいいね！
@@ -41,3 +40,7 @@
 感想文(日付:Github Name)
 
 例） `なんかいい。(2022/04/02:hrn)`
+
+## ライセンス
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> 注があるものを除いて, このリポジトリの内容物は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
