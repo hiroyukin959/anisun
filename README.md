@@ -41,6 +41,22 @@
 
 例） `なんかいい。(2022/04/02:hrn)`
 
+## その他
+
+### 絵文字サイト
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+ここに紹介されているのと、githubでの実際の表示が若干違う
+
+https://gist.github.com/rxaviers/7360908
+
+ここにgithubで表示されたイメージがある
+
+https://gist.github.com/spiegel-im-spiegel/66aac732f27ad69cc8b6bd33478ecfa4
+
+ここにも掲載されている
+
 ## ライセンス
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> 注があるものを除いて, このリポジトリの内容物は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
