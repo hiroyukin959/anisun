@@ -47,15 +47,21 @@
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
-ここに紹介されているのと、githubでの実際の表示が若干違う
+githubブログでここの絵文字が使えると紹介されているが、こことgithubでの実際の表示が若干違う:cry:
+
+以下はgithubで確認できる絵文字を掲載しているリポジトリ
+
+https://github.com/ikatyang/emoji-cheat-sheet
+
+ここはカテゴリ分けされている
 
 https://gist.github.com/rxaviers/7360908
 
-ここにgithubで表示されたイメージがある
+ここは一覧で確認できる
 
 https://gist.github.com/spiegel-im-spiegel/66aac732f27ad69cc8b6bd33478ecfa4
 
-ここにも掲載されている
+ここはエイリアスが記載されている
 
 ## ライセンス
 
