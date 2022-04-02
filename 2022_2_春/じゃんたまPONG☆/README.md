@@ -7,3 +7,5 @@
 WIKI https://ja.wikipedia.org/wiki/%E9%9B%80%E9%AD%82_-%E3%81%98%E3%82%83%E3%82%93%E3%81%9F%E3%81%BE-
 
 ## 第０話
+
+トラックの追突で神社ごと異世界転生って:astonished:新しい:laughing:。(2022/04/03:hrn)
