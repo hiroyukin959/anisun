@@ -45,21 +45,21 @@
 
 ### 絵文字サイト
 
-<a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank">https://www.webfx.com/tools/emoji-cheat-sheet/</a>
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 githubブログでここの絵文字が使えると紹介されているが、こことgithubでの実際の表示が若干違う:cry:
 
 以下はgithubで確認できる絵文字を掲載しているリポジトリ
 
-<a href="https://github.com/ikatyang/emoji-cheat-sheet" target="_blank">https://github.com/ikatyang/emoji-cheat-sheet</a>
+https://github.com/ikatyang/emoji-cheat-sheet
 
 ここはカテゴリ分けされている
 
-<a href="https://gist.github.com/rxaviers/7360908" target="_blank">https://gist.github.com/rxaviers/7360908</a>
+https://gist.github.com/rxaviers/7360908
 
 ここは一覧で確認できる
 
-<a href="https://gist.github.com/spiegel-im-spiegel/66aac732f27ad69cc8b6bd33478ecfa4" target="_blank">https://gist.github.com/spiegel-im-spiegel/66aac732f27ad69cc8b6bd33478ecfa4</a>
+https://gist.github.com/spiegel-im-spiegel/66aac732f27ad69cc8b6bd33478ecfa4
 
 ここはエイリアスが記載されている
 
