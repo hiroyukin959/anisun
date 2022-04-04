@@ -5,6 +5,6 @@
 [公式](https://aharen-pr.com/) 
 [WIKI](https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E9%80%A3%E3%81%95%E3%82%93%E3%81%AF%E3%81%AF%E3%81%8B%E3%82%8C%E3%81%AA%E3%81%84) 
 
-## 第１話「近すぎじゃね？」
+## 第一話「近すぎじゃね？」
 
 なんかいい。(2022/04/02:hrn)
