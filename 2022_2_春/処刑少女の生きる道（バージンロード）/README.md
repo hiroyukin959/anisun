@@ -1,0 +1,8 @@
+# 処刑少女の生きる道（バージンロード）
+
+[公式](https://virgin-road.com/) 
+[WIKI](https://ja.wikipedia.org/wiki/%E5%87%A6%E5%88%91%E5%B0%91%E5%A5%B3%E3%81%AE%E7%94%9F%E3%81%8D%E3%82%8B%E9%81%93) 
+
+## 第１話「処刑人」
+
+主人公と思いきや:astonished:(2022/04/03:hrn)
