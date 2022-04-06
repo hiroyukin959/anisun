@@ -1,0 +1,6 @@
+# BIRDIE WING -Golf Girls' Story-
+
+[公式](https://birdie-wing.net/) 
+[WIKI](https://ja.wikipedia.org/wiki/BIRDIE_WING_-Golf_Girls%27_Story-) 
+
+## #01「レインボー・バレット」
