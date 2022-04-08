@@ -1,0 +1,8 @@
+# 骸骨騎士様、只今異世界へお出掛け中
+
+[公式](https://skeleton-knight.com/) 
+[WIKI](https://ja.wikipedia.org/wiki/%E9%AA%B8%E9%AA%A8%E9%A8%8E%E5%A3%AB%E6%A7%98%E3%80%81%E5%8F%AA%E4%BB%8A%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8%E3%81%8A%E5%87%BA%E6%8E%9B%E3%81%91%E4%B8%AD) 
+
+## 第１話「流浪の騎士、世直し旅にて候ふ」
+
+アークすごく前向き:smiley:(2022/04/08:hrn)

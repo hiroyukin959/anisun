@@ -1,0 +1,8 @@
+# まちカドまぞく 2丁目
+
+思わず笑ってしまう:laughing:掛け合いがいい。(2022/04/08:hrn)
+
+[公式](https://www.tbs.co.jp/anime/machikado/) 
+[WIKI](https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A1%E3%82%AB%E3%83%89%E3%81%BE%E3%81%9E%E3%81%8F) 
+
+## 第１話「対決ふたたび！魔法少女の新たなる姿！？」
