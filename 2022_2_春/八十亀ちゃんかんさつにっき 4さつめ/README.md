@@ -2,3 +2,7 @@
 
 [公式](https://yatogame.nagoya/) 
 [WIKI](https://ja.wikipedia.org/wiki/%E5%85%AB%E5%8D%81%E4%BA%80%E3%81%A1%E3%82%83%E3%82%93%E3%81%8B%E3%82%93%E3%81%95%E3%81%A4%E3%81%AB%E3%81%A3%E3%81%8D) 
+
+# #1「どまんなかだで」
+
+日本の真ん中多すぎ！(2022/04/10:hrn)
