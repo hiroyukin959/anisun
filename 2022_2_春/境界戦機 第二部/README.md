@@ -1,0 +1,6 @@
+# 境界戦機 第二部
+
+[公式](https://www.kyoukai-senki.net/) 
+[WIKI](https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E6%88%A6%E6%A9%9F) 
+
+## 第十四話「8ヶ月後」

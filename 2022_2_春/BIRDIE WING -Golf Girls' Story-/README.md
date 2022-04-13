@@ -4,3 +4,5 @@
 [WIKI](https://ja.wikipedia.org/wiki/BIRDIE_WING_-Golf_Girls%27_Story-) 
 
 ## #01「レインボー・バレット」
+
+## #02「無邪気な暴君」
