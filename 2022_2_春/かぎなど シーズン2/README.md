@@ -1,0 +1,6 @@
+# かぎなど シーズン2
+
+[公式](https://kaginado.com/) 
+[WIKI](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8E%E3%81%AA%E3%81%A9) 
+
+## １３話「後半戦スタートーーの前になど」
