@@ -5,4 +5,8 @@
 [公式](https://date-a-live4th-anime.com/) 
 [WIKI](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96) 
 
+※ タイトルはBパートの最後
+
 ## 第一話「あわてるな。これは精霊の罠だ」
+
+## 第二話「よろしい、ならば二次元だ」
