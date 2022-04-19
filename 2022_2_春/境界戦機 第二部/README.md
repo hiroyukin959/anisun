@@ -3,4 +3,8 @@
 [公式](https://www.kyoukai-senki.net/) 
 [WIKI](https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E6%88%A6%E6%A9%9F) 
 
+※ タイトルはBパートの最後
+
 ## 第十四話「8ヶ月後」
+
+## 第十五話「再会」
