@@ -21,3 +21,5 @@
 
 大丈夫マス:ok_woman:(2022/04/30:hrn)
 怖い、この人たち:monocle_face:
+
+## MISSION:5「合否の行方」
