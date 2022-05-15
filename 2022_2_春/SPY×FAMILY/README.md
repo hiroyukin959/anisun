@@ -23,3 +23,5 @@
 怖い、この人たち:monocle_face:
 
 ## MISSION:5「合否の行方」
+
+## MISSION:6「ナカヨシ作戦」
