@@ -18,3 +18,5 @@
 ## ep7「Peacebuilding Force Memorial Library」
 
 ## ep8「Crossing Iron Oceans」
+
+## ep9「Half Mechanic」
