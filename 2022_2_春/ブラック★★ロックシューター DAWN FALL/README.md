@@ -20,3 +20,5 @@
 ## ep8「Crossing Iron Oceans」
 
 ## ep9「Half Mechanic」
+
+## ep10「Titanomachia」
