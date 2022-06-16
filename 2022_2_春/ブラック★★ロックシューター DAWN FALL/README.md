@@ -22,3 +22,5 @@
 ## ep9「Half Mechanic」
 
 ## ep10「Titanomachia」
+
+## ep11「The Moon Is a Harsh Mistress」
