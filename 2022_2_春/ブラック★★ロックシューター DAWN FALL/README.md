@@ -24,3 +24,5 @@
 ## ep10「Titanomachia」
 
 ## ep11「The Moon Is a Harsh Mistress」
+
+## ep12「Black Rock Shooter」
