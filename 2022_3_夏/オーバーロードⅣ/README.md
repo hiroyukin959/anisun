@@ -8,3 +8,5 @@
 ## Chapter 1「アインズ・ウール・ゴウン魔導国 ／ Ainz Ooal Gown Nation of Leading Darkness」
 
 ## Chapter 2「リ・エスティーゼ王国 ／ Re-Estize kingdom」
+
+## Chapter 3「バハルス帝国 ／ Baharuth Empire」
