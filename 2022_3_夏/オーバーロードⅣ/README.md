@@ -10,3 +10,5 @@
 ## Chapter 2「リ・エスティーゼ王国 ／ Re-Estize kingdom」
 
 ## Chapter 3「バハルス帝国 ／ Baharuth Empire」
+
+## Chapter 4「謀略の統治者 ／ The ruler of Conspiracy」
