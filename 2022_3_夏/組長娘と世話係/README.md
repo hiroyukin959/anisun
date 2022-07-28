@@ -1,0 +1,8 @@
+# 組長娘と世話係
+
+[公式](https://kumichomusume.com/) 
+[WIKI](https://ja.wikipedia.org/wiki/%E7%B5%84%E9%95%B7%E5%A8%98%E3%81%A8%E4%B8%96%E8%A9%B1%E4%BF%82) 
+
+※ タイトルはAパートの開始直後
+
+## 第1話「組長娘と世話係」
