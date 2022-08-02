@@ -12,3 +12,5 @@
 ## Chapter 3「バハルス帝国 ／ Baharuth Empire」
 
 ## Chapter 4「謀略の統治者 ／ The ruler of Conspiracy」
+
+## Chapter 5「ドワーフの国を求めて ／ In Pursuit of the Land of Dwarves」
