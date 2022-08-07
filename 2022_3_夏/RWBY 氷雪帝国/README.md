@@ -6,3 +6,13 @@
 ※ タイトルはAパートの開始直後
 
 ## Chapter 1「Red, White, Black, Yellow 「出立」」
+
+## Chapter 2「This is Beacon 「試験」」
+
+## Chapter 3「A Nightmare comes 「悪夢」」
+
+## Chapter 4「Ice Queendom 「氷雪帝国」」
+
+## Chapter 5「Awaken in a dream「眠りの都」」
+
+## Chapter 6「Do you have a plan？「作戦は？」」
