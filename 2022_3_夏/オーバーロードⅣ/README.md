@@ -14,3 +14,5 @@
 ## Chapter 4「謀略の統治者 ／ The ruler of Conspiracy」
 
 ## Chapter 5「ドワーフの国を求めて ／ In Pursuit of the Land of Dwarves」
+
+## Chapter 6「迫りくる危機 ／ The Impending Crisis」
