@@ -16,3 +16,5 @@
 ## Chapter 5「Awaken in a dream「眠りの都」」
 
 ## Chapter 6「Do you have a plan？「作戦は？」」
+
+## Chapter 7「Dreams come rued 「自由のために」」
