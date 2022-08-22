@@ -18,3 +18,5 @@
 ## Chapter 6「Do you have a plan？「作戦は？」」
 
 ## Chapter 7「Dreams come rued 「自由のために」」
+
+## Chapter 8「Where You Belong 「氷嵐」」
