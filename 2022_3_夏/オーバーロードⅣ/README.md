@@ -18,3 +18,5 @@
 ## Chapter 6「迫りくる危機 ／ The Impending Crisis」
 
 ## Chapter 7「霜の竜王 ／ Frost Dragon Lord」
+
+## Chapter 8「計算外の一手 ／ An unexpected move」

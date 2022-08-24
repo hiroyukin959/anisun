@@ -18,3 +18,5 @@
 ## #06「Opposites attract」
 
 ## #07「Time will tell」
+
+## #08「Another day, another dollar」
