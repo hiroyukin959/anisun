@@ -20,3 +20,5 @@
 ## Chapter 7「霜の竜王 ／ Frost Dragon Lord」
 
 ## Chapter 8「計算外の一手 ／ An unexpected move」
+
+## Chapter 9「滅亡への始まり ／ Countdown to Extinction」
