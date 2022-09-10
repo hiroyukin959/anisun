@@ -22,3 +22,5 @@
 ## Chapter 8「計算外の一手 ／ An unexpected move」
 
 ## Chapter 9「滅亡への始まり ／ Countdown to Extinction」
+
+## Chapter 10「最後の王 ／ The last king」
