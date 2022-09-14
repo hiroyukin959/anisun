@@ -24,3 +24,5 @@
 ## Chapter 9「滅亡への始まり ／ Countdown to Extinction」
 
 ## Chapter 10「最後の王 ／ The last king」
+
+## Chapter 11「張り巡らされた罠 ／ Well-prepared Traps」

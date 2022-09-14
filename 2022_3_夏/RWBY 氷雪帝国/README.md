@@ -24,3 +24,5 @@
 ## Chapter 9「My dream , Your dream 「あなたのために」」
 
 ## Chapter 10「Mirror of darkness 「白雪黒炎」」
+
+## Chapter 11「Light in shadows 「向き合う者」」
