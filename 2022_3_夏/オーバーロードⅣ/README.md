@@ -26,3 +26,5 @@
 ## Chapter 10「最後の王 ／ The last king」
 
 ## Chapter 11「張り巡らされた罠 ／ Well-prepared Traps」
+
+## Chapter 12「王都侵攻 ／ Invasion of the royal capital」
