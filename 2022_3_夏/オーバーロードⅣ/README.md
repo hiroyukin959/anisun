@@ -28,3 +28,5 @@
 ## Chapter 11「張り巡らされた罠 ／ Well-prepared Traps」
 
 ## Chapter 12「王都侵攻 ／ Invasion of the royal capital」
+
+## Chapter 13「滅国の魔女」

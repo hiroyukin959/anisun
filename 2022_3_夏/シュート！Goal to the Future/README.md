@@ -10,3 +10,25 @@
 ## EPISODE 02「負け犬集団」
 
 ## EPISODE 03「去る者」
+
+※ ここまで視聴(2022/10/13:hrn)
+
+## EPISODE 04「揺れる」
+
+## EPISODE 05「旧友」
+
+## EPISODE 06「ナポリタン」
+
+## EPISODE 07「合宿」
+
+## EPISODE 08「糸」
+
+## EPISODE 09「崩壊」
+
+## EPISODE 10「空虚」
+
+## EPISODE 11「左足」
+
+## EPISODE 12「孤高」
+
+## EPISODE 13「	始まり」
