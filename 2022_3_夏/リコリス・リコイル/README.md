@@ -22,3 +22,13 @@
 ## #08「Another day, another dollar」
 
 ## #09「What’s done is done」
+
+※ ここまで視聴(2022/12/19:hrn)
+
+## #10「Repay evil with evil」
+
+## #11「Diamond cut diamond」
+
+## #12「Nature versus nurture」
+
+## #13「Recoil of Lycoris」
